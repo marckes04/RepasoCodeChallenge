@@ -1,0 +1,15 @@
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\bin\Debug\net6.0\Ejercicio_19.exe
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\bin\Debug\net6.0\Ejercicio_19.deps.json
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\bin\Debug\net6.0\Ejercicio_19.runtimeconfig.json
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\bin\Debug\net6.0\Ejercicio_19.dll
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\bin\Debug\net6.0\Ejercicio_19.pdb
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\obj\Debug\net6.0\Ejercicio_19.csproj.AssemblyReference.cache
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\obj\Debug\net6.0\Ejercicio_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\obj\Debug\net6.0\Ejercicio_19.AssemblyInfoInputs.cache
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\obj\Debug\net6.0\Ejercicio_19.AssemblyInfo.cs
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\obj\Debug\net6.0\Ejercicio_19.csproj.CoreCompileInputs.cache
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\obj\Debug\net6.0\Ejercicio_19.dll
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\obj\Debug\net6.0\refint\Ejercicio_19.dll
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\obj\Debug\net6.0\Ejercicio_19.pdb
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\obj\Debug\net6.0\Ejercicio_19.genruntimeconfig.cache
+C:\Users\AsusPC\Desktop\Repaso_Code_Challenge_C-\Conditionals\Ejercicio_19\Ejercicio_19\obj\Debug\net6.0\ref\Ejercicio_19.dll
